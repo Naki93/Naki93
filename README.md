@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naki93&label=Profile%20views&color=0e75b6&style=flat" alt="naki93" /> </p>
 
-- 🔭 I’m currently working on **Data Structures**
+- 🔭 I’m currently working on **Mastering Data Structures**
 - 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
