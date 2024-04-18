@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mastering Data Structures**
 - 🌱 I’m currently learning **React**
-- 👨‍💻 Some of my projects are available at [https://anna-portfolio.onrender.com](https://anna-portfolio.onrender.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
