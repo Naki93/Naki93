@@ -3,7 +3,7 @@
 <h3 align="center"> Frontend Developer/Web Developer</h3>
 <img align="right" alt="writing" width="400" src="https://cdn.pixabay.com/photo/2023/12/14/02/06/ai-generated-8448073_1280.png"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naki93&label=Profile%20views&color=0e75b6&style=flat" alt="naki93" /> </p>
+
 
 * 🔭  I’m currently working on *My Personal Portfolio*
 * 🧠  I'm learning MySQL
