@@ -8,7 +8,7 @@
 * 🚀  I'm currently working on [My personal Portfolio]
 * 🧠  I'm learning MySQL
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I can read minds. Go tell everyone
+* ⚡  I can read minds. 
 
 
 <h3 align="left">Connect with me:</h3>
