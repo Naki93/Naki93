@@ -5,7 +5,7 @@
 
 
 
-* 🔭  I’m currently working on *My Personal Portfolio*
+* 🚀  I'm currently working on [My personal Portfolio]
 * 🧠  I'm learning MySQL
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I can read minds. Go tell everyone
