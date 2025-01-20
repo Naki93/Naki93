@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋 I'm Anna Mashala</h1>
 <h3 align="center"> Frontend Developer/Web Developer</h3>
-<img  alt="writing" width="400" src="https://cdn.pixabay.com/photo/2023/12/14/02/06/ai-generated-8448073_1280.png"
+<img align="right" alt="writing" width="400" src="https://cdn.pixabay.com/photo/2023/12/14/02/06/ai-generated-8448073_1280.png"
 
 
 
