@@ -1,4 +1,4 @@
-![me](https://github.com/user-attachments/assets/4e9db337-0cf8-482f-87cb-e040dd2e0421)
+
 
 <h1 align="center">Hi 👋 I'm Anna Mashala</h1>
 <h3 align="center"> Frontend Developer/Web Developer</h3>
