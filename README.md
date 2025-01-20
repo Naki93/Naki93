@@ -1,7 +1,8 @@
+![me](https://github.com/user-attachments/assets/4e9db337-0cf8-482f-87cb-e040dd2e0421)
 
 <h1 align="center">Hi 👋 I'm Anna Mashala</h1>
 <h3 align="center"> Frontend Developer/Web Developer</h3>
-<img align="right" alt="writing" width="400" src="https://cdn.pixabay.com/photo/2023/12/14/02/06/ai-generated-8448073_1280.png"
+<img align="right" alt="writing" width="400" src="https://cdn.pixabay.com/photo/2023/12/14/02/06/ai-generated-8448073_1280.png"/>
 
 
 
