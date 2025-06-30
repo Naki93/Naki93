@@ -7,7 +7,7 @@
 
 
 * 🚀  I'm currently working on [My personal Portfolio]
-* 🧠  I'm learning MySQL
+* 🧠  I'm learning Python and Django
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I can read minds. 
 
