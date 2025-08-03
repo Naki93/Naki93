@@ -8,10 +8,7 @@
 
 While I'm sharpening my design instincts, I’m also growing as a **front-end developer**, learning how to build these designs from scratch using **HTML, CSS, JavaScript, React**.</p>
 
-* 🚀  I'm currently working on [My personal Portfolio]
-* 🧠  I'm learning Python and Django
-* 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I can read minds. 
+ 
 
 
 <h3 align="left">Connect with me:</h3>
