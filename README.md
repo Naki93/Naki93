@@ -4,10 +4,12 @@
 <h3 align="center"> 🎨 Aspiring Design Engineer — Building with Code & Visual Storytelling</h3>
 <img align="right" alt="writing" width="400" src="https://github.com/user-attachments/assets/4e9db337-0cf8-482f-87cb-e040dd2e0421"
 
-<p align="center">I'm diving into the world of **design engineering**, where creativity meets code. Though I've only recently started learning design fundamentals, I'm discovering a deep passion for **visual hierarchy, alignment, and typography personality**. I love analyzing websites, spotting where visual flow is broken, and imagining how it could be fixed through better layout and font choices.
+> I'm on a journey to become a **Design Engineer** — blending frontend development with a sharp design eye. Even though I'm new to design, I can spot when a layout lacks **visual hierarchy** or when typography doesn't fit a brand's personality. I'm learning to bridge the gap between **Figma mockups and real, responsive code**.
 
-While I'm sharpening my design instincts, I’m also growing as a **front-end developer**, learning how to build these designs from scratch using **HTML, CSS, JavaScript, React**.</p>
-
+* 🚀  I'm currently working on [My personal Portfolio]
+* 🧠  I'm learning Python and Django
+* 🤝  I'm open to collaborating on Interesting projects
+* ⚡  I can read minds.
  
 
 
@@ -28,5 +30,7 @@ While I'm sharpening my design instincts, I’m also growing as a **front-end de
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naki93&show_icons=true&stroke=ffffff&background=000000&locale=en&layout=compact" alt="naki93" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naki93&show_icons=true&locale=en" alt="naki93" /></p>
+
 <p><a href="http://www.github.com/Naki93"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Naki93&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
