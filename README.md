@@ -17,7 +17,8 @@ While I'm sharpening my design instincts, I’m also growing as a **front-end de
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+<p align="right">
 <a href="https://linkedin.com/in/anna-m-a535a1150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anna-m-a535a1150" height="30" width="40" /></a>
 
 </p>
