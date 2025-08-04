@@ -4,7 +4,10 @@
 <h3 align="center"> 🎨 Aspiring Design Engineer — Building with Code & Visual Storytelling</h3>
 <img align="right" alt="writing" width="400" src="https://github.com/user-attachments/assets/4e9db337-0cf8-482f-87cb-e040dd2e0421"
 
-> I'm on a journey to become a **Design Engineer** — blending frontend development with a sharp design eye. Even though I'm new to design, I can spot when a layout lacks **visual hierarchy** or when typography doesn't fit a brand's personality. I'm learning to bridge the gap between **Figma mockups and real, responsive code**.
+I've discovered a deep passion for **visual hierarchy, alignment, and typography personality**. I love analyzing websites, spotting where visual flow is broken, and imagining how it could be fixed through better layout and font choices.
+
+While I'm sharpening my design instincts, I’m also growing as a **front-end developer**, learning how to build these designs from scratch using **HTML, CSS, JavaScript and React**.
+<br>
 
 * 🚀  I'm currently working on [My personal Portfolio]
 * 🧠  I'm learning Python and Django
