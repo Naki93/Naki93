@@ -30,7 +30,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naki93" alt="naki93" /></a> </p>
+
 
 <p><a href="http://www.github.com/Naki93"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Naki93&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
