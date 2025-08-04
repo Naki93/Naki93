@@ -9,7 +9,7 @@ I've discovered a deep passion for **visual hierarchy, alignment, and typography
 While I'm sharpening my design instincts, I’m also growing as a **front-end developer**, learning how to build these designs from scratch using **HTML, CSS, JavaScript and React**.
 <br>
 
-<img align="right" alt="writing" width="400" src="https://github.com/user-attachments/assets/4e9db337-0cf8-482f-87cb-e040dd2e0421"
+<img align="right" alt="writing" width="400" src="https://github.com/user-attachments/assets/4e9db337-0cf8-482f-87cb-e040dd2e0421">
 
 * 🚀  I'm currently working on [My personal Portfolio]
 * 🧠  I'm learning Python and Django
