@@ -2,12 +2,14 @@
 
 <h1 align="center">Hi 👋 I'm Anna Mashala</h1>
 <h3 align="center"> 🎨 Aspiring Design Engineer — Building with Code & Visual Storytelling</h3>
-<img align="right" alt="writing" width="400" src="https://github.com/user-attachments/assets/4e9db337-0cf8-482f-87cb-e040dd2e0421"
+
 
 I've discovered a deep passion for **visual hierarchy, alignment, and typography personality**. I love analyzing websites, spotting where visual flow is broken, and imagining how it could be fixed through better layout and font choices.
 
 While I'm sharpening my design instincts, I’m also growing as a **front-end developer**, learning how to build these designs from scratch using **HTML, CSS, JavaScript and React**.
 <br>
+
+<img align="right" alt="writing" width="400" src="https://github.com/user-attachments/assets/4e9db337-0cf8-482f-87cb-e040dd2e0421"
 
 * 🚀  I'm currently working on [My personal Portfolio]
 * 🧠  I'm learning Python and Django
@@ -17,8 +19,8 @@ While I'm sharpening my design instincts, I’m also growing as a **front-end de
 
 
 <h3 align="left">Connect with me:</h3>
----
-<p align="right">
+
+<p align="left">
 <a href="https://linkedin.com/in/anna-m-a535a1150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anna-m-a535a1150" height="30" width="40" /></a>
 
 </p>
