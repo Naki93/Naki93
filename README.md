@@ -1,12 +1,10 @@
 
 
 <h1 align="center">Hi 👋 I'm Anna Mashala</h1>
-<h3 align="center"> 🎨 Aspiring Design Engineer — Building with Code & Visual Storytelling</h3>
+<h3 align="center"> 🎨 Aspiring Design Developer</h3>
 <br><br>
 
-I've discovered a deep passion for **visual hierarchy, alignment, and typography personality**. I love analyzing websites, spotting where visual flow is broken, and imagining how it could be fixed through better layout and font choices.
 
-While I'm sharpening my design instincts, I’m also growing as a **front-end developer**, learning how to build these designs from scratch using **HTML, CSS, JavaScript and React**.
 <br><br><br>
 
 <img align="right" alt="writing" width="400" src="https://github.com/user-attachments/assets/4e9db337-0cf8-482f-87cb-e040dd2e0421">
