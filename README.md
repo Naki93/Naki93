@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋 </h1>
-<h3 align="center"> 🎨 Aspiring Design Developer</h3>
+<!-- <h1 align="center">Hi 👋 </h1> -->
+<!-- <h3 align="center"> 🎨 Aspiring Design Developer</h3> -->
 <br><br>
 
 
